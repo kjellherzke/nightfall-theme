@@ -1,6 +1,6 @@
 {
-  "name": "nightfall",
-  "displayName": "Nightfall",
+  "name": "nightfall-dimmed",
+  "displayName": "Nightfall Dimmed",
   "description": "A popular theme inspired by the JetBrains Rider *Nightfall* theme",
   "version": "0.0.1",
   "engines": {
@@ -12,10 +12,21 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nightfall",
+        "label": "Nightfall Dimmed",
         "uiTheme": "vs-dark",
         "path": "./themes/Nightfall-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einKnuffy/nightfall-theme.git"
+  },
+  "author": "einknuffy",
+  "publisher": "einknuffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/einKnuffy/nightfall-theme/issues"
+  },
+  "homepage": "https://github.com/einKnuffy/nightfall-theme#readme"
 }
