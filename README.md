@@ -1,6 +1,6 @@
 # Nightfall Theme
 
-## For Visual Studio Code
+By developers (just me), for developers
 
 Inspired by and among many themes, this theme, made by myself, is my favorite one. (lol)
 
@@ -8,6 +8,14 @@ Inspired by and among many themes, this theme, made by myself, is my favorite on
 
 ---
 
-## THANKS
+### Inspiration
 
----
+Inspired by many other themes, but especially from _JetBrains IntelliJ IDEA_'s Nightfall theme.
+
+Huge thanks to the creators of that theme, I really enjoyed using it. <3
+
+### Contribution
+
+Feel free to think about and create changes.
+
+This is Open-Source, _baby_.
