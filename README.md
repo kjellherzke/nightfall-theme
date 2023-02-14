@@ -1,10 +1,8 @@
 # Nightfall Theme
 
-By developers (just me), for developers
+A _Dimmed, Dark & Beautiful theme_ made by developers (me), for developers
 
-Inspired by and among many themes, this theme, made by myself, is my favorite one. (lol)
-
-### I love feedback and reviews, so .... _give_ .... _it_ ..... _to_ ..... _me_
+#### I'd appreciate any kind of feedback. So let me know!
 
 ---
 
@@ -18,4 +16,12 @@ Huge thanks to the creators of that theme, I really enjoyed using it. <3
 
 Feel free to think about and create changes.
 
-This is Open-Source, _baby_.
+This is **Open-Source**, _baby_!
+
+---
+
+### Goals
+
+Continously on-going and further developed theme with many upcoming updates/styling fixes
+
+**Make Visual Studio Code great again!**
