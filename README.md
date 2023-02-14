@@ -4,7 +4,7 @@
 
 Inspired by and among many themes, this theme, made by myself, is my favorite one. (lol)
 
-### I love feedback and reviews, so .... _give_ .... _it_ ..... _to_ ..... **me**. (**^\_^**)
+### I love feedback and reviews, so .... _give_ .... _it_ ..... _to_ ..... _me_
 
 ---
 
