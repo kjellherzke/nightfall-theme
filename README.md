@@ -1,20 +1,47 @@
-# Nightfall Theme
-
-A _Dimmed, Dark & Beautiful theme_ made by developers (me), for developers
-
-#### I'd appreciate any kind of feedback. So let me know!
+<p align="center">
+   <br/>
+   <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank"><img width="150px" src="https://user-images.githubusercontent.com/66639485/219091559-ff751ec6-1f57-4fc2-a399-b052bf91581e.png" /></a>
+   <h3 align="center">Nightfall Theme (Dimmed)</h3>
+   <p align="center">A dimmed, dark & beautiful theme made by developers, for developers</p>
+   <p align="center">
+   Based on various popular other themes, including my favourite JetBrains Rider's theme.
+   </p>
+   <p align="center" style="align: center">
+      <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank">
+        <img src="https://img.shields.io/visual-studio-marketplace/r/einknuffy.nightfall-dimmed" alt="Marketplace" />
+      </a>
+     <a href="https://github.com/einKnuffy/nightfall-theme" target="_blank">
+        <img src="https://img.shields.io/github/package-json/v/einknuffy/nightfall-theme" alt="Version" />
+      </a>
+   </p>
+</p>
 
 ---
 
 ### Showcase
 
-Intelligent and beautiful semantic and syntax highlighting for all languages, including Javascript/Typescript:
 
-![image](https://user-images.githubusercontent.com/66639485/218817359-5bb5ab3b-be60-4a33-b88e-59e2cf5f2c9a.png)
+Intelligent, beautiful semantic and syntax highlighting for all languages.
 
-(Zoomed in):
+Here are some popular language examples:
 
-![image](https://user-images.githubusercontent.com/66639485/218816689-de2b9cce-6a72-4596-9793-c27b291f3781.png)
+**Javascript/Typescript**:
+
+![image](https://user-images.githubusercontent.com/66639485/219090266-cd6eecf4-e3d1-45e3-bdf6-5833ae5783f0.png)
+
+**Java**:
+
+![image](https://user-images.githubusercontent.com/66639485/219090477-e715aea7-4883-4d81-85a8-bb4b6173dc4f.png)
+
+**C#**:
+
+![image](https://user-images.githubusercontent.com/66639485/219090608-dfce065c-c65c-494d-b571-5c3035be5f09.png)
+
+**PHP**:
+
+![image](https://user-images.githubusercontent.com/66639485/219090871-1ccbfa64-93ce-4c62-a089-71a4a4bcf7ff.png)
+
+**And so many more . . .**
 
 ---
 
