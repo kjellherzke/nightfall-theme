@@ -2,7 +2,7 @@
   "name": "nightfall-dimmed",
   "displayName": "Nightfall Dimmed",
   "description": "A dimmed, dark & beautiful theme made by developers, for developers",
-  "icon": "images/nightfall-vscode-theme-icon.png",
+  "icon": "images/logo-dimmed.png",
   "version": "0.5.0",
   "engines": {
     "vscode": "^1.87.0"
