@@ -1,11 +1,11 @@
 {
   "name": "nightfall-dimmed",
   "displayName": "Nightfall Dimmed",
-  "description": "A dark, dimmed & beautiful theme inspired by the JetBrains Rider's *Nightfall* theme",
+  "description": "A dimmed, dark & beautiful theme made by developers, for developers",
   "icon": "images/nightfall-vscode-theme-icon.png",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
@@ -15,7 +15,7 @@
       {
         "label": "Nightfall Dimmed",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nightfall-color-theme.json"
+        "path": "./themes/Nightfall.json"
       }
     ]
   },
