@@ -1,6 +1,6 @@
 <p align="center">
    <br />
-   <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank"><img width="150px" src="https://user-images.githubusercontent.com/66639485/219091559-ff751ec6-1f57-4fc2-a399-b052bf91581e.png" /></a>
+   <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank"><img width="150px" src="/images/nightfall-vscode-theme-icon.png" /></a>
    <h3 align="center"><b>Nightfall Theme (Dimmed)</b></h3>
    <p align="center">A dimmed, dark & beautiful theme made by developers, for developers <br/> Based on various popular other themes, including my favourite JetBrains Rider's theme.</p>
    <br/>
