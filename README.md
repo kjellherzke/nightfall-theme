@@ -2,7 +2,7 @@
    <br />
    <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank"><img width="150px" src="/images/logo-dimmed.png" /></a>
    <h3 align="center"><b>Nightfall Theme (Dimmed)</b></h3>
-   <p align="center">A dimmed, dark & beautiful theme made by developers, for developers <br/> Based on various popular other themes, including my favourite JetBrains Rider's theme.</p>
+   <p align="center"><strong>A dimmed, dark & beautiful theme made by developers, for developers</strong> <br/> Based on various popular other themes, but <strong>blazingly fast⚡ and lightweight 🪶</strong></p>
    <br/>
    <p align="center" style="align: center">
       <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank">
@@ -19,36 +19,11 @@
 <p align="center">
    <br />
    <h3 align="center"><b>Showcase ✨</b></h3>
-   <p align="center">Intelligent, beautiful semantic and syntax highlighting for all languages. <br />Here are some popular language examples:</p>
+   <p align="center">Intelligent, beautiful semantic and syntax highlighting for all languages. <br />Here is a concise code snippet for computing the fibonacci sequence in <strong>Typescript</strong>.</p>
    <br/>
 </p>
 
-**Javascript/Typescript**:
-
-![image](https://user-images.githubusercontent.com/66639485/219090266-cd6eecf4-e3d1-45e3-bdf6-5833ae5783f0.png)
-
-**Java**:
-
-![image](https://user-images.githubusercontent.com/66639485/219090477-e715aea7-4883-4d81-85a8-bb4b6173dc4f.png)
-
-**C#**:
-
-![image](https://user-images.githubusercontent.com/66639485/219090608-dfce065c-c65c-494d-b571-5c3035be5f09.png)
-
-**PHP**:
-
-![image](https://user-images.githubusercontent.com/66639485/219090871-1ccbfa64-93ce-4c62-a089-71a4a4bcf7ff.png)
-
-_And so many more . . ._
-
----
-
-<p align="center">
-   <br />
-   <h3 align="center"><b>Inspiration 💡</b></h3>
-   <p align="center">Inspired by many other themes, but especially from _JetBrains IntelliJ IDEA_'s Nightfall theme. <br />Huge thanks to the creators of that theme, I really enjoyed using it. <3 </p>
-   <br/>
-</p>
+![This is it](/images/showcase-fibonacci.png)
 
 ---
 
