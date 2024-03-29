@@ -2,6 +2,10 @@
 
 _All_ notable changes to the **nightfall** extension will be documented in this file.
 
+## 0.5.2
+
+- ReadMe updates, improved showcasing
+
 ## 0.5.1
 
 - Another logo update due to contrast issue
