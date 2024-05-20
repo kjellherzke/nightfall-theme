@@ -2,8 +2,8 @@
   "name": "nightfall-dimmed",
   "displayName": "Nightfall Dimmed",
   "description": "A dimmed, dark & beautiful theme made by developers, for developers",
-  "icon": "images/logo-dimmed.png",
-  "version": "0.5.2",
+  "icon": "images/icon.png",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/einKnuffy/nightfall-theme.git"
+    "url": "git+https://github.com/kjellherzke/nightfall-theme.git"
   },
-  "author": "einknuffy",
-  "publisher": "einknuffy",
-  "license": "ISC",
+  "author": "kjellherzke",
+  "publisher": "kjellherzke",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/einKnuffy/nightfall-theme/issues"
+    "url": "https://github.com/kjellherzke/nightfall-theme/issues"
   },
-  "homepage": "https://github.com/einKnuffy/nightfall-theme#readme"
+  "homepage": "https://github.com/kjellherzke/nightfall-theme#readme"
 }

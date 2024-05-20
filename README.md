@@ -1,7 +1,6 @@
 <p align="center">
    <br />
-   <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank"><img width="150px" src="/images/logo-dimmed.png" /></a>
-   <h3 align="center"><b>Nightfall Theme (Dimmed)</b></h3>
+   <a href="https://marketplace.visualstudio.com/items?itemName=einknuffy.nightfall-dimmed" target="_blank"><img width="600px" src="/images/logo.png" /></a>
    <p align="center"><strong>A dimmed, dark & beautiful theme made by developers, for developers</strong> <br/> Based on various popular other themes, but <strong>blazingly fast⚡ and lightweight 🪶</strong></p>
    <br/>
    <p align="center" style="align: center">
@@ -40,7 +39,7 @@
 <p align="center">
    <br />
    <h3 align="center"><b>Goals 🎯</b></h3>
-   <p align="center">Continously on-going and further developed theme with many upcoming updates/styling fixes</p>
+   <p align="center">Continuously on-going and further developed theme with many upcoming updates/styling fixes</p>
      <p align="center"><b>Make Visual Studio Code great again!</b></p>
    <br/>
 </p>
