@@ -24,10 +24,11 @@
     "url": "git+https://github.com/kjellherzke/nightfall-theme.git"
   },
   "author": "kjellherzke",
-  "publisher": "kjellherzke",
+  "publisher": "einknuffy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kjellherzke/nightfall-theme/issues"
   },
-  "homepage": "https://github.com/kjellherzke/nightfall-theme#readme"
+  "homepage": "https://github.com/kjellherzke/nightfall-theme#readme",
+  "packageManager": "pnpm@9.1.0+sha512.67f5879916a9293e5cf059c23853d571beaf4f753c707f40cb22bed5fb1578c6aad3b6c4107ccb3ba0b35be003eb621a16471ac836c87beb53f9d54bb4612724"
 }
